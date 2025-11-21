@@ -1,0 +1,3 @@
+f808937 Reordered modifier in `COMEDY_AUDIENCE_THRESHOLD` for consistency with coding standards.
+95396df - Refactored `StatementPrinter`, `Play`, and `Performance` classes to improve encapsulation by making fields private and providing getters. - Updated `StatementPrinter` logic to use constants for calculations and improved method readability. - Adjusted `.idea/vcs.xml` configuration for Git directory mapping. Completed Task 1.1
+64c9033 Initial commit
