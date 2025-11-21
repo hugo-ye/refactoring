@@ -1,3 +1,6 @@
+0475620 Inlined `getAmount` calls in `StatementPrinter` loop to simplify logic. Task 2.1
+5720756 Refactored `StatementPrinter` to improve readability and modularity by extracting methods for play retrieval and amount calculation.
+e71f000 Added commit history entries to `log.txt`. Task 1.2
 f808937 Reordered modifier in `COMEDY_AUDIENCE_THRESHOLD` for consistency with coding standards.
 95396df - Refactored `StatementPrinter`, `Play`, and `Performance` classes to improve encapsulation by making fields private and providing getters. - Updated `StatementPrinter` logic to use constants for calculations and improved method readability. - Adjusted `.idea/vcs.xml` configuration for Git directory mapping. Completed Task 1.1
 64c9033 Initial commit
