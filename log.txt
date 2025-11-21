@@ -1,3 +1,5 @@
+9183c4f Extracted `getTotalAmount` and `getTotalVolumeCredits` methods in `StatementPrinter` to improve readability and encapsulate calculations. Task 2.4
+6039f19 Updated `log.txt` with latest commit history for tracking. Task 2.3
 b79abb4 Extracted `usd` method in `StatementPrinter` to format amounts consistently and improve maintainability. Task 2.3
 a786574 Extracted `getVolumeCredits` method in `StatementPrinter` to improve readability and encapsulate volume credits calculation. Task 2.2
 4dad111 Updated `log.txt` with latest commit history for tracking. Task 2.1
